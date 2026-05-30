@@ -5,22 +5,21 @@ A Python-based voice + text AI assistant powered by Claude (Anthropic).
 ## Quick Start
 
 ### 1. Clone / set up
-```bash
+bash
 git clone <your-repo>
 cd jarvis
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
-```
 
 ### 2. Configure
-```bash
+bash
 cp .env.example .env
 # Edit .env and add your API keys
-```
+
 
 ### 3. Run
-```bash
+bash
 # Voice mode (requires microphone)
 python main.py
 
