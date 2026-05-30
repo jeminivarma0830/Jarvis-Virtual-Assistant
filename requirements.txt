@@ -1,0 +1,26 @@
+# ── Core AI ──────────────────────────────────────────────
+anthropic>=0.25.0          # Claude API (primary brain)
+openai>=1.30.0             # Optional: GPT-4 fallback / Whisper STT
+
+# ── Speech ───────────────────────────────────────────────
+SpeechRecognition>=3.10.0  # Microphone → text (Google STT)
+pyttsx3>=2.90              # Offline text → speech
+pyaudio>=0.2.14            # Audio capture
+# elevenlabs>=1.0.0         # Uncomment for natural voice
+# pvporcupine>=3.0.0        # Uncomment for wake-word detection
+
+# ── Memory / Vector DB ───────────────────────────────────
+chromadb>=0.5.0            # Long-term memory vector store
+sentence-transformers>=3.0  # Local text embeddings
+
+# ── Skills / Integrations ────────────────────────────────
+requests>=2.31.0           # HTTP calls (weather, APIs)
+python-dotenv>=1.0.0       # Load .env secrets
+
+# ── UI Dashboard ─────────────────────────────────────────
+flask>=3.0.0               # Web dashboard
+flask-socketio>=5.3.0      # Real-time updates
+
+# ── Utilities ────────────────────────────────────────────
+colorama>=0.4.6
+rich>=13.7.0

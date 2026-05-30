@@ -1,0 +1,9 @@
+2026-05-30 13:09:34,847 [INFO] memory.long_term: Memory loaded: 0 entries in 'jarvis_memory'
+2026-05-30 13:09:34,982 [INFO] comtypes.client._code_cache: Imported existing <module 'comtypes.gen' from 'C:\\Users\\Jemini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 13:09:34,982 [INFO] comtypes.client._code_cache: Using writeable comtypes cache directory: 'C:\Users\Jemini\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2026-05-30 13:09:35,370 [INFO] core.speech: [TTS] Good day, Sir. Text mode active.
+2026-05-30 13:10:36,560 [INFO] memory.long_term: Memory loaded: 0 entries in 'jarvis_memory'
+2026-05-30 13:10:36,641 [INFO] comtypes.client._code_cache: Imported existing <module 'comtypes.gen' from 'C:\\Users\\Jemini\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 13:10:36,642 [INFO] comtypes.client._code_cache: Using writeable comtypes cache directory: 'C:\Users\Jemini\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+2026-05-30 13:10:36,753 [INFO] core.speech: [TTS] Good day, Sir. JARVIS is online.
+2026-05-30 13:10:49,823 [INFO] core.speech: [STT] Heard: Jarvis my name is Gemini Varma
